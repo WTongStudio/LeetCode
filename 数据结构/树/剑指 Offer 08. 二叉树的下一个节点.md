@@ -6,7 +6,7 @@
 
 ## 解题思路
 
-![DF0C739B-68D8-4A13-8E20-84E663B1F64A](/var/folders/ws/vpsx_h9d68l9cq28x5f38sxc0000gn/T/ro.nextwave.Snappy/ro.nextwave.Snappy/DF0C739B-68D8-4A13-8E20-84E663B1F64A.png)
+![0E773716-D491-46C9-B35D-02B5D1815246](images/0E773716-D491-46C9-B35D-02B5D1815246.png)
 
 根据中序遍历的特点，要找到一个节点的下一个节点无非就是三种情况：
 
