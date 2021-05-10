@@ -45,6 +45,7 @@
 | [剑指 Offer 38. 字符串的排列](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2038.%20字符串的排列.md) | 回溯法、DFS      | 中等 |
 |                                                              |                  |      |
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划         | 中等 |
+| [剑指 Offer 47. 礼物的最大价值]()                            | 动态规划         | 中等 |
 |                                                              |                  |      |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算           | 简单 |
 |                                                              |                  |      |
