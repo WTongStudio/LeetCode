@@ -1,7 +1,7 @@
 # LeetCode
 
 | 题目                                                         | 标签             | 难度 |
-| :----------------------------------------------------------- | ---------------- | ---- |
+| :----------------------------------------------------------- | :--------------- | :--: |
 | [剑指 Offer 03. 数组中重复的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2003.%20数组中重复的数字.md) | 数组             | 简单 |
 | [剑指 Offer 04. 二维数组中的查找](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2004.%20二维数组中的查找.md) | 数组             | 中等 |
 | [剑指 Offer 10. 斐波那契数列（及其变种）](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2010.%20斐波那契数列（及其变种）.md) | 数组             | 简单 |
