@@ -84,5 +84,5 @@ func majorityElement(nums []int) int {
 
 ## 相关题目
 
-[229. 求众数 II](https://leetcode-cn.com/problems/majority-element-ii/)
+[229. 求众数 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/229.%20求众数%20II.md)
 

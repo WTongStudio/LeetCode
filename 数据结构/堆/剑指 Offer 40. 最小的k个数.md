@@ -57,4 +57,4 @@ func getLeastNumbers(arr []int, k int) []int {
 
 ## 相关题目
 
-[215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+[215. 数组中的第K个最大元素](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/215.%20数组中的第K个最大元素.md)
