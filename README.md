@@ -1,19 +1,19 @@
 # LeetCode
 
 | 题目                                                         | 标签             | 难度 |
-| ------------------------------------------------------------ | ---------------- | ---- |
-| [剑指 Offer 03. 数组中重复的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2003.%20数组中重复的数字.md) | 数组             |      |
-| [剑指 Offer 04. 二维数组中的查找](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2004.%20二维数组中的查找.md) | 数组             |      |
-| [剑指 Offer 10. 斐波那契数列（及其变种）](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2010.%20斐波那契数列（及其变种）.md) | 数组             |      |
-| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2021.%20调整数组顺序使奇数位于偶数前面.md) | 数组             |      |
-| [剑指 Offer 29. 顺时针打印矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2029.%20顺时针打印矩阵.md) | 数组             |      |
-| [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2039.%20数组中出现次数超过一半的数字.md) | 数组、摩尔投票   |      |
-| [229. 求众数 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/229.%20求众数%20II.md) | 数组、摩尔投票   |      |
+| :----------------------------------------------------------- | ---------------- | ---- |
+| [剑指 Offer 03. 数组中重复的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2003.%20数组中重复的数字.md) | 数组             | 简单 |
+| [剑指 Offer 04. 二维数组中的查找](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2004.%20二维数组中的查找.md) | 数组             | 中等 |
+| [剑指 Offer 10. 斐波那契数列（及其变种）](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2010.%20斐波那契数列（及其变种）.md) | 数组             | 简单 |
+| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2021.%20调整数组顺序使奇数位于偶数前面.md) | 数组             | 简单 |
+| [剑指 Offer 29. 顺时针打印矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2029.%20顺时针打印矩阵.md) | 数组             | 简单 |
+| [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2039.%20数组中出现次数超过一半的数字.md) | 数组、摩尔投票   | 简单 |
+| [229. 求众数 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/229.%20求众数%20II.md) | 数组、摩尔投票   | 中等 |
 |                                                              |                  |      |
-| [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表             |      |
-| [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表             |      |
-| [剑指 Offer 25. 合并两个排序的链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2025.%20合并两个排序的链表.md) | 链表             |      |
-| [剑指 Offer 35. 复杂链表的复制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2035.%20复杂链表的复制.md) | 链表             |      |
+| [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表             | 简单 |
+| [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表             | 简单 |
+| [剑指 Offer 25. 合并两个排序的链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2025.%20合并两个排序的链表.md) | 链表             | 简单 |
+| [剑指 Offer 35. 复杂链表的复制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2035.%20复杂链表的复制.md) | 链表             | 中等 |
 |                                                              |                  |      |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树               |      |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树               |      |
