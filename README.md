@@ -28,6 +28,7 @@
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2027.%20二叉树的镜像.md) | 树               | 简单 |
 | [剑指 Offer 28. 对称的二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2028.%20对称的二叉树.md) | 树               | 简单 |
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2032%20-%20III.%20从上到下打印二叉树%20III.md) | 树               | 中等 |
+| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.md) | 树               | 中等 |
 |                                                              |                  |      |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈               | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈               | 简单 |
