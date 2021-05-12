@@ -49,12 +49,14 @@
 |                                                              |                      |      |
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划             | 中等 |
 | [剑指 Offer 19. 正则表达式匹配](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2019.%20正则表达式匹配.md) | 动态规划             | 困难 |
+| [剑指 Offer 42. 连续子数组的最大和](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2042.%20连续子数组的最大和.md) | 动态规划             | 简单 |
 | [剑指 Offer 47. 礼物的最大价值](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2047.%20礼物的最大价值.md) | 动态规划             | 中等 |
 |                                                              |                      |      |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算               | 简单 |
 |                                                              |                      |      |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2016.%20数值的整数次方.md) | 数学                 | 中等 |
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机 | 中等 |
+| [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2043.%201～n%20整数中%201%20出现的次数.md) | 数学                 | 困难 |
 |                                                              |                      |      |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/大数/剑指%20Offer%2017.%20打印从1到最大的n位数.md) | 大数                 | 简单 |
 |                                                              |                      |      |
