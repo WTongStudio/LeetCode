@@ -66,16 +66,15 @@ func Constructor() MedianFinder { // 工厂方法
 }
 
 func (this *MedianFinder) AddNum(num int) {
-	/** 压入数据时有两种情况；
-	 *  1）原有数据为偶数个，则有 LeftMax.len() == RightMin.len()
-	 *    此时将数据放入 LeftMax
-   *    高明之处：需先将数据放在 RightMin，再从 RightMin 中 pop 出一个元素，将其放入 LeftMax
-	 *    省去了判断 num 与 RightMin最小值 及 LeftMax最大值 的比较，通过比较判断 num 应该放在哪个 heap
-	 *    然后再根据左右 heap 的长度，对左右 heap 进行调整
-	 *  2) 原有数据为奇数个，则有 LeftMax.len() == RightMin.len() + 1
-   *    此时将数据放入 RightMin
-	 *    类似上一步，需先将数据放在 LeftMax，再从 LeftMax 中 pop 出一个元素，将其放入 RightMin 中
-	*/
+	// 压入数据时有两种情况；
+	// 1）原有数据为偶数个，则有 LeftMax.len() == RightMin.len()
+	//   此时将数据放入 LeftMax
+	//   高明之处：需先将数据放在 RightMin，再从 RightMin 中 pop 出一个元素，将其放入 LeftMax
+	//   省去了判断 num 与 RightMin最小值 及 LeftMax最大值 的比较，通过比较判断 num 应该放在哪个 heap
+	//   然后再根据左右 heap 的长度，对左右 heap 进行调整
+	// 2) 原有数据为奇数个，则有 LeftMax.len() == RightMin.len() + 1
+	//   此时将数据放入 RightMin
+	//   类似上一步，需先将数据放在 LeftMax，再从 LeftMax 中 pop 出一个元素，将其放入 RightMin 中
 	if this.LeftMax.Len() == this.RightMin.Len() {
 		heap.Push(this.RightMin, num)
 		heap.Push(this.LeftMax, heap.Pop(this.RightMin))
@@ -90,15 +89,8 @@ func (this *MedianFinder) FindMedian() float64 {
 		// 取堆顶元素
 		return float64(this.LeftMax.Heap[0]+this.RightMin.Heap[0]) / 2
 	} else {
-    // 取堆顶元素
+		// 取堆顶元素
 		return float64(this.LeftMax.Heap[0])
 	}
 }
-
-/**
- * Your MedianFinder object will be instantiated and called as such:
- * obj := Constructor();
- * obj.AddNum(num);
- * param_2 := obj.FindMedian();
- */
 ```
