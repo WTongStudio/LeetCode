@@ -15,5 +15,21 @@
 ## 代码实现
 
 ```golang
-
+func translateNum(num int) int {
+	s := strconv.Itoa(num)
+	p, q, r := 0, 0, 1 // r->f(i),q->f(i-1),p->f(i-2)
+	for i := 0; i < len(s); i++ {
+		p, q, r = q, r, 0 // 滚动数组，降低空间复杂度
+		r += q // f(i)+=f(i-1)
+		if i == 0 {
+			continue
+		}
+		prev := s[i-1 : i+1] // 向前取2位
+		if prev >= "10" && prev <= "25" {
+			r += p // f(i)+=f(i-2)
+		}
+	}
+	return r
+}
 ```
+
