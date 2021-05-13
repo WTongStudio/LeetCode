@@ -56,6 +56,7 @@
 | [213. 打家劫舍 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/213.%20打家劫舍%20II.md) | 动态规划，滚动数组优化 | 中等 |
 | [337. 打家劫舍 III](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/337.%20打家劫舍%20III.md) | 动态规划，树           | 中等 |
 | [剑指 Offer 47. 礼物的最大价值](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2047.%20礼物的最大价值.md) | 动态规划               | 中等 |
+| [剑指 Offer 48. 最长不含重复字符的子字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2048.%20最长不含重复字符的子字符串.md) | 动态规划               | 中等 |
 |                                                              |                        |      |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                 | 简单 |
 |                                                              |                        |      |
