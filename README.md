@@ -4,7 +4,7 @@
 
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
-| 数据结构 | 数组、链表、树、栈、堆、字符串                               |
+| 数据结构 | 数组、链表、树、栈、堆、字符串、哈希表                       |
 | 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、有限状态自动机、排序、滚动数组优化 |
 
 | 题目                                                         | 标签                   | 难度 |
@@ -17,6 +17,7 @@
 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2039.%20数组中出现次数超过一半的数字.md) | 数组、摩尔投票         | 简单 |
 | [229. 求众数 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/229.%20求众数%20II.md) | 数组、摩尔投票         | 中等 |
 | [剑指 Offer 45. 把数组排成最小的数](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2045.%20把数组排成最小的数.md) | 数组、排序、字符串     | 中等 |
+| [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 数组、字符串、哈希表   | 简单 |
 |                                                              |                        |      |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                   | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表                   | 简单 |
