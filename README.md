@@ -64,6 +64,8 @@
 | [剑指 Offer 49. 丑数](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2049.%20丑数.md) | 动态规划，堆           | 中等 |
 |                                                              |                        |      |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                 | 简单 |
+| [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                 | 中等 |
+| [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20II.%20数组中数字出现的次数%20II.md) | 位运算                 | 中等 |
 |                                                              |                        |      |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2016.%20数值的整数次方.md) | 数学                   | 中等 |
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机   | 中等 |

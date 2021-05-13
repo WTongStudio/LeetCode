@@ -18,7 +18,6 @@
 
 ```golang
 func singleNumber(nums []int) int {
-  // 实际上，只需要修改求余数值 m ，即可实现解决：除了一个数字以外，其余数字都出现 m 次 的通用问题。
 	counts := make([]int, 32) // 记录32位的整型中每一位的位数和
 	for i := 0; i < len(nums); i++ {
 		for j := 0; j < 32; j++ {
@@ -31,10 +30,6 @@ func singleNumber(nums []int) int {
 		res <<= 1
 		res |= counts[31-j] % m // 从高到低，对3求余，结果只可能是0或1
 	}
-	if counts[31]%m == 0 { // 最高位为0，表示正数
-		return res
-	} else { // 最高位为1，表示负数
-		return ^(res ^ 0xffffffff)
-	}
+	return res
 }
 ```
