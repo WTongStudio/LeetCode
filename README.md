@@ -44,6 +44,7 @@
 |                                                              |                        |      |
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                 | 中等 |
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                 | 中等 |
+| [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.md) | 二分法                 | 简单 |
 |                                                              |                        |      |
 | [剑指 Offer 12. 矩阵中的路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2012.%20矩阵中的路径.md) | 回溯法、DFS            | 中等 |
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS       | 中等 |
