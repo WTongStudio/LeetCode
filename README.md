@@ -38,8 +38,8 @@
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2032%20-%20III.%20从上到下打印二叉树%20III.md) | 树                       | 中等 |
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.md) | 树                       | 中等 |
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树                       | 中等 |
-| [剑指 Offer 54. 二叉搜索树的第k大节点]()                     | 树、二叉树遍历           | 简单 |
-| [剑指 Offer 55 - I. 二叉树的深度]()                          | 树、二叉树遍历、DFS、BFS | 简单 |
+| [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2054.%20二叉搜索树的第k大节点.md) | 树、二叉树遍历           | 简单 |
+| [剑指 Offer 55 - I. 二叉树的深度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20I.%20二叉树的深度.md) | 树、二叉树遍历、DFS、BFS | 简单 |
 |                                                              |                          |      |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                       | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                       | 简单 |
