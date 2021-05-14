@@ -53,7 +53,7 @@
 | [剑指 Offer 41. 数据流中的中位数](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/剑指%20Offer%2041.%20数据流中的中位数.md) | 堆                           | 困难 |
 | [215. 数组中的第K个最大元素](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/215.%20数组中的第K个最大元素.md) | 堆                           | 中等 |
 | -                                                            | -                            |  -   |
-| [剑指 Offer 59 - II. 队列的最大值]()                         | 队列                         | 中等 |
+| [剑指 Offer 59 - II. 队列的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20II.%20队列的最大值.md) | 队列                         | 中等 |
 | -                                                            | -                            |  -   |
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
