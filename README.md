@@ -20,7 +20,7 @@
 | [剑指 Offer 51. 数组中的逆序对](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2051.%20数组中的逆序对.md) | 数组、归并排序、分治法   | 困难 |
 | [剑指 Offer 57. 和为s的两个数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2057.%20和为s的两个数字.md) | 数组、双指针             | 简单 |
 | [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2057%20-%20II.%20和为s的连续正数序列.md) | 数组、双指针             | 简单 |
-| [剑指 Offer 61. 扑克牌中的顺子]()                            | 数组、问题抽象           | 简单 |
+| [剑指 Offer 61. 扑克牌中的顺子](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2061.%20扑克牌中的顺子.md) | 数组、问题抽象           | 简单 |
 | -                                                            | -                        |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表           | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针           | 简单 |
@@ -41,7 +41,7 @@
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树                       | 中等 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2054.%20二叉搜索树的第k大节点.md) | 树、二叉树遍历           | 简单 |
 | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20I.%20二叉树的深度.md) | 树、二叉树遍历、DFS、BFS | 简单 |
-| [剑指 Offer 55 - II. 平衡二叉树]()                           | 树、二叉树遍历           |      |
+| [剑指 Offer 55 - II. 平衡二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20II.%20平衡二叉树.md) | 树、二叉树遍历           |      |
 | -                                                            | -                        |  -   |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                       | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                       | 简单 |
