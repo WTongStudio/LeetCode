@@ -21,6 +21,7 @@
 | [剑指 Offer 57. 和为s的两个数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2057.%20和为s的两个数字.md) | 数组、双指针                 | 简单 |
 | [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2057%20-%20II.%20和为s的连续正数序列.md) | 数组、双指针                 | 简单 |
 | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2061.%20扑克牌中的顺子.md) | 数组、问题抽象               | 简单 |
+| [剑指 Offer 66. 构建乘积数组]()                              | 数组                         | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表               | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针               | 简单 |
