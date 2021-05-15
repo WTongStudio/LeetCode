@@ -51,4 +51,6 @@ func (this *MaxQueue) Pop_front() int {
 
 ## 相关题目
 
+[剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20I.%20滑动窗口的最大值.md)
+
 [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md)

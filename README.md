@@ -55,7 +55,7 @@
 | [215. 数组中的第K个最大元素](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/215.%20数组中的第K个最大元素.md) | 堆                           | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 59 - II. 队列的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20II.%20队列的最大值.md) | 队列                         | 中等 |
-| [剑指 Offer 59 - I. 滑动窗口的最大值]()                      | 队列、滑动窗口               | 中等 |
+| [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20I.%20滑动窗口的最大值.md) | 队列、滑动窗口               | 中等 |
 | -                                                            | -                            |  -   |
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
