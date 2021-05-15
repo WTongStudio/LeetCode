@@ -91,6 +91,7 @@
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机         | 中等 |
 | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2043.%201～n%20整数中%201%20出现的次数.md) | 数学                         | 困难 |
 | [剑指 Offer 44. 数字序列中某一位的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2044.%20数字序列中某一位的数字.md) | 数学                         | 中等 |
+| [剑指 Offer 67. 把字符串转换成整数]()                        | 数学                         | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/大数/剑指%20Offer%2017.%20打印从1到最大的n位数.md) | 大数                         | 简单 |
 | -                                                            | -                            |  -   |
