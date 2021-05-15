@@ -48,3 +48,7 @@ func (this *MaxQueue) Pop_front() int {
 	return front
 }
 ```
+
+## 相关题目
+
+[剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md)

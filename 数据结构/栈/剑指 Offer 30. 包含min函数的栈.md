@@ -68,3 +68,7 @@ func (this *MinStack) Min() int {
  * param_4 := obj.Min();
  */
 ```
+
+## 相关题目
+
+[剑指 Offer 59 - II. 队列的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20II.%20队列的最大值.md)
