@@ -77,7 +77,7 @@
 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2048.%20最长不含重复字符的子字符串.md) | 动态规划                     | 中等 |
 | [剑指 Offer 49. 丑数](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2049.%20丑数.md) | 动态规划、堆                 | 中等 |
 | [剑指 Offer 63. 股票的最大利润](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2063.%20股票的最大利润.md) | 动态规划、滚动数组优化       | 中等 |
-| [剑指 Offer 60. n个骰子的点数]()                             | 动态规划、数学               | 中等 |
+| [剑指 Offer 60. n个骰子的点数](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2060.%20n个骰子的点数.md) | 动态规划、数学               | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                       | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                       | 中等 |
