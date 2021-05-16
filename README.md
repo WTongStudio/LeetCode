@@ -86,6 +86,7 @@
 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20II.%20数组中数字出现的次数%20II.md) | 位运算                       | 中等 |
 | [剑指 Offer 65. 不用加减乘除做加法](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2065.%20不用加减乘除做加法.md) | 位运算                       | 简单 |
 | [剑指 Offer 64. 求1+2+…+n](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2064.%20求1%2B2%2B…%2Bn.md) | 位运算、俄罗斯农民乘法、递归 | 中等 |
+| [面试题 01.01. 判定字符是否唯一]()                           | 位运算、字符串               | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2016.%20数值的整数次方.md) | 数学                         | 中等 |
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机         | 中等 |
