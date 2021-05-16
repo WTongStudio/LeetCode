@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列     |
-| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环 |
+| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离 |
 
 | 题目                                                         | 标签                         | 难度 |
 | :----------------------------------------------------------- | :--------------------------- | :--: |
@@ -80,13 +80,15 @@
 | [剑指 Offer 49. 丑数](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2049.%20丑数.md) | 动态规划、堆                 | 中等 |
 | [剑指 Offer 63. 股票的最大利润](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2063.%20股票的最大利润.md) | 动态规划、滚动数组优化       | 中等 |
 | [剑指 Offer 60. n个骰子的点数](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2060.%20n个骰子的点数.md) | 动态规划、数学               | 中等 |
+| [72. 编辑距离](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/72.%20编辑距离.md) | 动态规划、字符串、汉明距离   | 困难 |
+| [面试题 01.05. 一次编辑](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2001.05.%20一次编辑.md) | 动态规划、字符串、汉明距离   | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                       | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                       | 中等 |
 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20II.%20数组中数字出现的次数%20II.md) | 位运算                       | 中等 |
 | [剑指 Offer 65. 不用加减乘除做加法](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2065.%20不用加减乘除做加法.md) | 位运算                       | 简单 |
 | [剑指 Offer 64. 求1+2+…+n](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2064.%20求1%2B2%2B…%2Bn.md) | 位运算、俄罗斯农民乘法、递归 | 中等 |
-| [面试题 01.01. 判定字符是否唯一]()                           | 位运算、字符串               | 简单 |
+| [面试题 01.01. 判定字符是否唯一](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/面试题%2001.01.%20判定字符是否唯一.md) | 位运算、字符串               | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2016.%20数值的整数次方.md) | 数学                         | 中等 |
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机         | 中等 |
