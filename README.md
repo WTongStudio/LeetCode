@@ -4,7 +4,7 @@
 
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
-| 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列     |
+| 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、矩阵 |
 | 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离 |
 
 | 题目                                                         | 标签                         | 难度 |
@@ -13,7 +13,7 @@
 | [剑指 Offer 04. 二维数组中的查找](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2004.%20二维数组中的查找.md) | 数组                         | 中等 |
 | [剑指 Offer 10. 斐波那契数列（及其变种）](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2010.%20斐波那契数列（及其变种）.md) | 数组                         | 简单 |
 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2021.%20调整数组顺序使奇数位于偶数前面.md) | 数组                         | 简单 |
-| [剑指 Offer 29. 顺时针打印矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2029.%20顺时针打印矩阵.md) | 数组                         | 简单 |
+| [剑指 Offer 29. 顺时针打印矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2029.%20顺时针打印矩阵.md) | 数组、矩阵                   | 简单 |
 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2039.%20数组中出现次数超过一半的数字.md) | 数组、摩尔投票               | 简单 |
 | [229. 求众数 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/229.%20求众数%20II.md) | 数组、摩尔投票               | 中等 |
 | [剑指 Offer 45. 把数组排成最小的数](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2045.%20把数组排成最小的数.md) | 数组、排序、字符串           | 中等 |
@@ -23,10 +23,11 @@
 | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2061.%20扑克牌中的顺子.md) | 数组、问题抽象               | 简单 |
 | [剑指 Offer 62. 圆圈中最后剩下的数字](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2062.%20圆圈中最后剩下的数字.md) | 数组、约瑟夫环               | 简单 |
 | [剑指 Offer 66. 构建乘积数组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/剑指%20Offer%2066.%20构建乘积数组.md) | 数组                         | 中等 |
+| [面试题 01.07. 旋转矩阵]()                                   | 数组、矩阵                   | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表               | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针               | 简单 |
-| [面试题 01.06. 字符串压缩]()                                 | 字符串、双指针               | 简单 |
+| [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针               | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                         | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表                         | 简单 |
