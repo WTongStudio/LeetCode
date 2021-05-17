@@ -26,6 +26,7 @@
 | -                                                            | -                            |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表               | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针               | 简单 |
+| [面试题 01.06. 字符串压缩]()                                 | 字符串、双指针               | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                         | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表                         | 简单 |
