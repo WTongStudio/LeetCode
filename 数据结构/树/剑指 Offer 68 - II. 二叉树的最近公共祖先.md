@@ -4,6 +4,8 @@
 
 ## 解题思路
 
+注意：**一个节点也可以是它自己的祖先**
+
 ![02E3227B-ACF3-4868-9884-BB7C9564F132](images/02E3227B-ACF3-4868-9884-BB7C9564F132.png)
 
 ## 复杂度分析
@@ -19,12 +21,14 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 	if root == nil {
 		return nil
 	}
-	if root == p || root == q {
+	if root == p || root == q { // 终止条件，一个节点也可以是它自己的祖先
 		return root
 	}
 	left := lowestCommonAncestor(root.Left, p, q)   // 在左子树查找p、q的最近公共祖先
 	right := lowestCommonAncestor(root.Right, p, q) // 在右子树查找p、q的最近公共祖先
-	if left != nil && right != nil { // 若左、右子树中未找到公共祖先，说明当前节点为最近公共祖先
+	if left != nil && right != nil {
+    // 若左、右子树中都存在公共祖先，说明当前节点为最近公共祖先
+    // 此时left==root.Left，right==root.Right
 		return root
 	}
 	if left == nil { // 不在左子树
