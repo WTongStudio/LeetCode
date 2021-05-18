@@ -27,8 +27,8 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 	left := lowestCommonAncestor(root.Left, p, q)   // 在左子树查找p、q的最近公共祖先
 	right := lowestCommonAncestor(root.Right, p, q) // 在右子树查找p、q的最近公共祖先
 	if left != nil && right != nil {
-    // 若左、右子树中都存在公共祖先，说明当前节点为最近公共祖先
-    // 此时left==root.Left，right==root.Right
+		// 若左、右子树中都存在公共祖先，说明当前节点为最近公共祖先
+		// 此时left==root.Left，right==root.Right
 		return root
 	}
 	if left == nil { // 不在左子树
