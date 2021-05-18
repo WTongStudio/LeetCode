@@ -54,7 +54,7 @@
 | [剑指 Offer 55 - II. 平衡二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20II.%20平衡二叉树.md) | 树、二叉树遍历               | 简单 |
 | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2068%20-%20I.%20二叉搜索树的最近公共祖先.md) | 树、二叉搜索树               | 简单 |
 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2068%20-%20II.%20二叉树的最近公共祖先.md) | 树、递归、DFS                | 简单 |
-| [面试题 04.03. 特定深度节点链表]()                           | 树、二叉树遍历、链表         | 中等 |
+| [面试题 04.03. 特定深度节点链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.03.%20特定深度节点链表.md) | 树、二叉树遍历、链表         | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                           | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                           | 简单 |
@@ -98,7 +98,7 @@
 | [剑指 Offer 65. 不用加减乘除做加法](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2065.%20不用加减乘除做加法.md) | 位运算                       | 简单 |
 | [剑指 Offer 64. 求1+2+…+n](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2064.%20求1%2B2%2B…%2Bn.md) | 位运算、俄罗斯农民乘法、递归 | 中等 |
 | [面试题 01.01. 判定字符是否唯一](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/面试题%2001.01.%20判定字符是否唯一.md) | 位运算、字符串               | 简单 |
-| [面试题 05.07. 配对交换]()                                   | 位运算                       | 简单 |
+| [面试题 05.07. 配对交换](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/面试题%2005.07.%20配对交换.md) | 位运算                       | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2016.%20数值的整数次方.md) | 数学                         | 中等 |
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机         | 中等 |
