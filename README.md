@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、矩阵 |
-| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针 |
+| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法 |
 
 | 题目                                                         | 标签                         | 难度 |
 | :----------------------------------------------------------- | :--------------------------- | :--: |
@@ -37,6 +37,8 @@
 | [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2052.%20两个链表的第一个公共节点.md) | 链表                         | 简单 |
 | [面试题 02.05. 链表求和](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/面试题%2002.05.%20链表求和.md) | 链表                         | 中等 |
 | [面试题 02.06. 回文链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/面试题%2002.06.%20回文链表.md) | 链表、反转链表、快慢指针     | 简单 |
+| [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法            | 简单 |
+| [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法            | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                           | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                           | 中等 |
@@ -63,10 +65,10 @@
 | [剑指 Offer 59 - II. 队列的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20II.%20队列的最大值.md) | 队列                         | 中等 |
 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20I.%20滑动窗口的最大值.md) | 队列、滑动窗口               | 中等 |
 | -                                                            | -                            |  -   |
-| [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
-| [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.md) | 二分法                       | 简单 |
 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.md) | 二分法                       | 简单 |
+| [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
+| [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                       | 中等 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 12. 矩阵中的路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2012.%20矩阵中的路径.md) | 回溯法、DFS                  | 中等 |
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS             | 中等 |
