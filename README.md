@@ -35,7 +35,8 @@
 | [剑指 Offer 25. 合并两个排序的链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2025.%20合并两个排序的链表.md) | 链表                         | 简单 |
 | [剑指 Offer 35. 复杂链表的复制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2035.%20复杂链表的复制.md) | 链表                         | 中等 |
 | [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2052.%20两个链表的第一个公共节点.md) | 链表                         | 简单 |
-| [面试题 02.06. 回文链表]()                                   | 链表、反转链表、快慢指针     | 简单 |
+| [面试题 02.05. 链表求和](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/面试题%2002.05.%20链表求和.md) | 链表                         | 中等 |
+| [面试题 02.06. 回文链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/面试题%2002.06.%20回文链表.md) | 链表、反转链表、快慢指针     | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                           | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                           | 中等 |
