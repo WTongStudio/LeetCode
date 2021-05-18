@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、矩阵 |
-| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离 |
+| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针 |
 
 | 题目                                                         | 标签                         | 难度 |
 | :----------------------------------------------------------- | :--------------------------- | :--: |
@@ -28,13 +28,14 @@
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表               | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针               | 简单 |
 | [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针               | 简单 |
-| [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/tree/master/数据结构/字符串) | 字符串                       | 简单 |
+| [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                       | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                         | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表                         | 简单 |
 | [剑指 Offer 25. 合并两个排序的链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2025.%20合并两个排序的链表.md) | 链表                         | 简单 |
 | [剑指 Offer 35. 复杂链表的复制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2035.%20复杂链表的复制.md) | 链表                         | 中等 |
 | [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2052.%20两个链表的第一个公共节点.md) | 链表                         | 简单 |
+| [面试题 02.06. 回文链表]()                                   | 链表、反转链表、快慢指针     | 简单 |
 | -                                                            | -                            |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                           | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                           | 中等 |
