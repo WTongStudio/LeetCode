@@ -56,7 +56,7 @@
 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2068%20-%20II.%20二叉树的最近公共祖先.md) | 树、递归、DFS                    | 简单 |
 | [面试题 04.02. 最小高度树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.02.%20最小高度树.md) | 树、二叉搜索树、递归             | 简单 |
 | [面试题 04.03. 特定深度节点链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.03.%20特定深度节点链表.md) | 树、二叉树遍历、链表             | 中等 |
-| [面试题 04.05. 合法二叉搜索树]()                             | 树、二叉搜索树、二叉树遍历、递归 | 中等 |
+| [面试题 04.05. 合法二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.05.%20合法二叉搜索树.md) | 树、二叉搜索树、二叉树遍历、递归 | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                               | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                               | 简单 |
