@@ -2,7 +2,7 @@
 
 ## 解题思路
 
-此处输入解题描述。
+![2F91330E-A28E-470C-A056-40472C41D934](images/2F91330E-A28E-470C-A056-40472C41D934.png)
 
 ## 复杂度分析
 
@@ -17,12 +17,12 @@ func isSubStructure(A *TreeNode, B *TreeNode) bool {
 	if B == nil { // 特判
 		return false
 	}
-	// 1、非递归先序遍历 A
+	// 1、非递归先序遍历 Ad
 	stack := list.New()
 	node := A
 	for node != nil || stack.Len() > 0 {
 		for node != nil {
-			// 2、检查 B 是否为 A 的子结构
+			// 2、递归检查 B 是否为 A 的子结构
 			if node.Val == B.Val && isSubTree(node, B) {
 				return true
 			}
