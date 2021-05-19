@@ -43,6 +43,7 @@
 | -                                                            | -                                |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                               | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                               | 中等 |
+| [面试题 04.06. 后继者](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.06.%20后继者.md) | 树、二叉搜索树、递归             | 中等 |
 | [剑指 Offer 26. 树的子结构](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2026.%20树的子结构.md) | 树                               | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2027.%20二叉树的镜像.md) | 树                               | 简单 |
 | [剑指 Offer 28. 对称的二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2028.%20对称的二叉树.md) | 树                               | 简单 |
