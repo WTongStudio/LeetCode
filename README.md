@@ -49,8 +49,8 @@
 | [剑指 Offer 28. 对称的二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2028.%20对称的二叉树.md) | 树                               | 简单 |
 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2032%20-%20III.%20从上到下打印二叉树%20III.md) | 树                               | 中等 |
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.md) | 树                               | 中等 |
-| [剑指 Offer 34. 二叉树中和为某一值的路径]()                  | 树、回溯法、DFS                  | 中等 |
-| [面试题 04.12. 求和路径]()                                   | 树、回溯法、DFS                  | 中等 |
+| [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2034.%20二叉树中和为某一值的路径.md) | 树、回溯法、DFS                  | 中等 |
+| [面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md) | 树、二叉树遍历、DFS              | 中等 |
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树                               | 中等 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2054.%20二叉搜索树的第k大节点.md) | 树、二叉树遍历                   | 简单 |
 | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20I.%20二叉树的深度.md) | 树、二叉树遍历、DFS、BFS         | 简单 |
