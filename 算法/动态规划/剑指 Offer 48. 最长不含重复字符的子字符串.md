@@ -1,6 +1,6 @@
 # [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
 
-## 方法一：动态规划+哈希表
+## 方法一：动态规划+哈希表（推荐）
 
 ## 解题思路
 
@@ -40,9 +40,15 @@ func lengthOfLongestSubstring(s string) int {
 	}
 	return res
 }
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
 ```
 
-## 方法二：动态规划+线性
+## 方法二：动态规划+线性遍历
 
 ## 解题思路
 

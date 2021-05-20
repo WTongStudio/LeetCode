@@ -17,37 +17,37 @@
 ```golang
 type Heap []int
 
-func (m *Heap) Swap(i, j int) {
-	(*m)[i], (*m)[j] = (*m)[j], (*m)[i]
+func (h Heap) Len() int { // 值接收者，处理方便
+	return len(h)
+}
+func (h Heap) Swap(i, j int) { // 值接收者，处理方便
+	h[i], h[j] = h[j], h[i]
 }
 
-func (m *Heap) Len() int {
-	return len(*m)
+func (h *Heap) Pop() interface{} { // 指针接收者，需要操作底层数组，若用值接收者则会拷贝一份底层数组操作
+	v := (*h)[len(*h)-1]
+	*h = (*h)[:len(*h)-1]
+	return v
 }
 
-func (m *Heap) Pop() (v interface{}) {
-	*m, v = (*m)[:len(*m)-1], (*m)[len(*m)-1]
-	return
+func (h *Heap) Push(v interface{}) { // 指针接收者，需要操作底层数组，若用值接收者则会拷贝一份底层数组操作
+	*h = append(*h, v.(int))
 }
 
-func (m *Heap) Push(v interface{}) {
-	*m = append(*m, v.(int))
-}
-
-type minHeap struct {
+type maxHeap struct { // 大顶堆
 	Heap
 }
 
-func (m *minHeap) Less(i, j int) bool {
-	return m.Heap[i] < m.Heap[j]
-}
-
-type maxHeap struct {
-	Heap
-}
-
-func (m *maxHeap) Less(i, j int) bool {
+func (m *maxHeap) Less(i, j int) bool { // 值接收者，处理方便
 	return m.Heap[i] > m.Heap[j]
+}
+
+type minHeap struct { // 小顶堆
+	Heap
+}
+
+func (m *minHeap) Less(i, j int) bool { // 值接收者，处理方便
+	return m.Heap[i] < m.Heap[j]
 }
 
 type MedianFinder struct {
@@ -56,12 +56,12 @@ type MedianFinder struct {
 }
 
 /** initialize your data structure here. */
-func Constructor() MedianFinder { // 工厂方法
+func Constructor() MedianFinder { // 工厂方法，返回对象值，不要返回指针，指针对象会逃逸到堆上
 	m := new(MedianFinder)
 	m.RightMin = new(minHeap)
 	m.LeftMax = new(maxHeap)
-	heap.Init(m.LeftMax)  // 利用 golang 的 heap 接口实现堆
-	heap.Init(m.RightMin) // 利用 golang 的 heap 接口实现堆
+	heap.Init(m.LeftMax)  // 注意初始化！利用 golang 的 heap 接口实现堆
+	heap.Init(m.RightMin) // 注意初始化！利用 golang 的 heap 接口实现堆
 	return *m
 }
 
@@ -86,10 +86,10 @@ func (this *MedianFinder) AddNum(num int) {
 
 func (this *MedianFinder) FindMedian() float64 {
 	if (this.RightMin.Len()+this.LeftMax.Len())%2 == 0 {
-		// 取堆顶元素
+		// 取堆顶元素，直接从结构中取 Heap[0]，省去用 heap.Pop() 后再做类型断言了
 		return float64(this.LeftMax.Heap[0]+this.RightMin.Heap[0]) / 2
 	} else {
-		// 取堆顶元素
+		// 取堆顶元素，直接从结构中取 Heap[0]，省去用 heap.Pop() 后再做类型断言了
 		return float64(this.LeftMax.Heap[0])
 	}
 }

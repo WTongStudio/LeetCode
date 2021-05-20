@@ -12,7 +12,7 @@
 
 **空间复杂度：O(1)** 
 
-## 代码实现
+## 代码实现（复用原数组空间优化，会修改原数组）
 
 ```golang
 func maxSubArray(nums []int) int {
@@ -25,7 +25,6 @@ func maxSubArray(nums []int) int {
 		}
 		// 若 nums[i-1] <= 0
 		// 表示 i 之前的连续子数组和小于 0 为负贡献，可以舍弃
-
 		if nums[i] > max {
 			max = nums[i]
 		}
@@ -33,3 +32,24 @@ func maxSubArray(nums []int) int {
 	return max
 }
 ```
+
+## 代码实现（使用一个变量空间优化，推荐）
+
+```go
+func maxSubArray(nums []int) int {
+	// sum 表示以 nums[i-1] 为结尾的连续子数组和的最大值
+	sum, maxSum := nums[0], nums[0]
+	for i := 1; i < len(nums); i++ {
+		if sum > 0 { // 正贡献，累加
+			sum += nums[i]
+		} else { // 若 sum <= 0 表示 i 之前的连续子数组和小于 0 为负贡献，可以舍弃
+			sum = nums[i]
+		}
+		if sum > maxSum {
+			maxSum = sum
+		}
+	}
+	return maxSum
+}
+```
+
