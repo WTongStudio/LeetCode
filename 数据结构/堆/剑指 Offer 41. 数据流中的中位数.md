@@ -94,3 +94,7 @@ func (this *MedianFinder) FindMedian() float64 {
 	}
 }
 ```
+
+## 相关题目
+
+[4. 寻找两个正序数组的中位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/4.%20寻找两个正序数组的中位数.md)
