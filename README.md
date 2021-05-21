@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、排列<br /> |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -27,6 +27,7 @@
 | [面试题 01.07. 旋转矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/面试题%2001.07.%20旋转矩阵.md) | 数组、矩阵                       | 中等 |
 | [面试题 01.08. 零矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/面试题%2001.08.%20零矩阵.md) | 数组、矩阵                       | 中等 |
 | [11. 盛最多水的容器](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/11.%20盛最多水的容器.md) | 数组、双指针                     | 中等 |
+| [31. 下一个排列]()                                           | 数组、排列                       | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表                   | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
@@ -86,7 +87,7 @@
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS                 | 中等 |
 | [剑指 Offer 38. 字符串的排列](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2038.%20字符串的排列.md) | 回溯法、DFS、字符串              | 中等 |
 | [22. 括号生成](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/22.%20括号生成.md) | 回溯法、DFS、字符串              | 中等 |
-| [39. 组合总和]()                                             | 回溯法、DFS、剪枝                | 中等 |
+| [39. 组合总和](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/39.%20组合总和.md) | 回溯法、DFS、剪枝                | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划                         | 中等 |
 | [剑指 Offer 19. 正则表达式匹配](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2019.%20正则表达式匹配.md) | 动态规划                         | 困难 |
