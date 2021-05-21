@@ -80,12 +80,12 @@
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
 | -                                                            | -                                |  -   |
-| [32. 最长有效括号]()                                         | 贪心算法                         | 中等 |
+| [32. 最长有效括号](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/32.%20最长有效括号.md) | 贪心算法                         | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 12. 矩阵中的路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2012.%20矩阵中的路径.md) | 回溯法、DFS                      | 中等 |
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS                 | 中等 |
 | [剑指 Offer 38. 字符串的排列](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2038.%20字符串的排列.md) | 回溯法、DFS、字符串              | 中等 |
-| [22. 括号生成]()                                             | 回溯法、DFS、字符串              | 中等 |
+| [22. 括号生成](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/22.%20括号生成.md) | 回溯法、DFS、字符串              | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划                         | 中等 |
 | [剑指 Offer 19. 正则表达式匹配](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2019.%20正则表达式匹配.md) | 动态规划                         | 困难 |
@@ -102,7 +102,7 @@
 | [72. 编辑距离](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/72.%20编辑距离.md) | 动态规划、字符串、汉明距离       | 困难 |
 | [面试题 01.05. 一次编辑](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2001.05.%20一次编辑.md) | 动态规划、字符串、汉明距离       | 中等 |
 | [5. 最长回文子串](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/5.%20最长回文子串.md) | 动态规划、字符串                 | 中等 |
-| [62. 不同路径]()                                             | 动态规划                         | 中等 |
+| [62. 不同路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/62.%20不同路径.md) | 动态规划                         | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |
