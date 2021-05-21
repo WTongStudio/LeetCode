@@ -33,6 +33,7 @@
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                           | 简单 |
+| [49. 字母异位词分组]()                                       | 字符串、哈希表、排序             | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                             | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表                             | 简单 |
@@ -82,6 +83,7 @@
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
 | -                                                            | -                                |  -   |
 | [32. 最长有效括号](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/32.%20最长有效括号.md) | 贪心算法                         | 中等 |
+| [55. 跳跃游戏]()                                             | 贪心算法                         | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 12. 矩阵中的路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2012.%20矩阵中的路径.md) | 回溯法、DFS                      | 中等 |
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS                 | 中等 |
@@ -118,6 +120,7 @@
 | [面试题 05.02. 二进制数转字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/面试题%2005.02.%20二进制数转字符串.md) | 位运算                           | 中等 |
 | [面试题 05.03. 翻转数位](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/面试题%2005.03.%20翻转数位.md) | 位运算                           | 简单 |
 | [面试题 05.07. 配对交换](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/面试题%2005.07.%20配对交换.md) | 位运算                           | 简单 |
+| [78. 子集]()                                                 | 位运算                           | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 16. 数值的整数次方](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2016.%20数值的整数次方.md) | 数学                             | 中等 |
 | [剑指 Offer 20. 表示数值的字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2020.%20表示数值的字符串.md) | 数学、有限状态自动机             | 中等 |
