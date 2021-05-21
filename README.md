@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、矩阵 |
-| 算法     | 二分法、回溯法、DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -86,6 +86,7 @@
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS                 | 中等 |
 | [剑指 Offer 38. 字符串的排列](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2038.%20字符串的排列.md) | 回溯法、DFS、字符串              | 中等 |
 | [22. 括号生成](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/22.%20括号生成.md) | 回溯法、DFS、字符串              | 中等 |
+| [39. 组合总和]()                                             | 回溯法、DFS、剪枝                | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划                         | 中等 |
 | [剑指 Offer 19. 正则表达式匹配](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2019.%20正则表达式匹配.md) | 动态规划                         | 困难 |
@@ -104,7 +105,7 @@
 | [5. 最长回文子串](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/5.%20最长回文子串.md) | 动态规划、字符串                 | 中等 |
 | [62. 不同路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/62.%20不同路径.md) | 动态规划、滚动数组优化           | 中等 |
 | [63. 不同路径 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/63.%20不同路径%20II.md) | 动态规划、滚动数组优化           | 中等 |
-| [面试题 08.02. 迷路的机器人](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2008.02.%20迷路的机器人.md) | 动态规划、回溯法                 | 中等 |
+| [面试题 08.02. 迷路的机器人](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2008.02.%20迷路的机器人.md) | 回溯法、DFS                      | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |
