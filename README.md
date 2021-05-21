@@ -102,7 +102,9 @@
 | [72. 编辑距离](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/72.%20编辑距离.md) | 动态规划、字符串、汉明距离       | 困难 |
 | [面试题 01.05. 一次编辑](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2001.05.%20一次编辑.md) | 动态规划、字符串、汉明距离       | 中等 |
 | [5. 最长回文子串](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/5.%20最长回文子串.md) | 动态规划、字符串                 | 中等 |
-| [62. 不同路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/62.%20不同路径.md) | 动态规划                         | 中等 |
+| [62. 不同路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/62.%20不同路径.md) | 动态规划、滚动数组优化           | 中等 |
+| [63. 不同路径 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/63.%20不同路径%20II.md) | 动态规划、滚动数组优化           | 中等 |
+| [面试题 08.02. 迷路的机器人](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2008.02.%20迷路的机器人.md) | 动态规划、回溯法                 | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |
