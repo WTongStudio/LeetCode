@@ -38,3 +38,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	return dummyHead.Next
 }
 ```
+
+## 相关题目
+
+[23. 合并K个升序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/23.%20合并K个升序链表.md)

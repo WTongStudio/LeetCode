@@ -44,7 +44,7 @@
 | [面试题 02.06. 回文链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/面试题%2002.06.%20回文链表.md) | 链表、反转链表、快慢指针         | 简单 |
 | [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法                | 简单 |
 | [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法                | 中等 |
-| [23. 合并K个升序链表]()                                      | 链表、归并思想、优先队列         | 困难 |
+| [23. 合并K个升序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/23.%20合并K个升序链表.md) | 链表、归并思想、优先队列         | 困难 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                               | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                               | 中等 |
