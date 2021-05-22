@@ -4,8 +4,8 @@
 
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
-| 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、排列<br />归并思想、优先队列 |
+| 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、优先队列、矩阵 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、排列<br />归并思想、区间问题、双指针 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -28,6 +28,9 @@
 | [面试题 01.08. 零矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/面试题%2001.08.%20零矩阵.md) | 数组、矩阵                       | 中等 |
 | [11. 盛最多水的容器](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/11.%20盛最多水的容器.md) | 数组、双指针                     | 中等 |
 | [31. 下一个排列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/31.%20下一个排列.md) | 数组、排列                       | 中等 |
+| [56. 合并区间]()                                             | 数组、排序、区间问题             | 中等 |
+| [435. 无重叠区间]()                                          | 数组、排序、区间问题             | 中等 |
+| [75. 颜色分类]()                                             | 数组、双指针                     | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表                   | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
@@ -56,6 +59,7 @@
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.md) | 树                               | 中等 |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2034.%20二叉树中和为某一值的路径.md) | 树、回溯法、DFS                  | 中等 |
 | [面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md) | 树、二叉树遍历、DFS              | 中等 |
+| [124. 二叉树中的最大路径和]()                                | 树、递归                         | 困难 |
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树                               | 中等 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2054.%20二叉搜索树的第k大节点.md) | 树、二叉树遍历                   | 简单 |
 | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20I.%20二叉树的深度.md) | 树、二叉树遍历、DFS、BFS         | 简单 |
@@ -64,7 +68,9 @@
 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2068%20-%20II.%20二叉树的最近公共祖先.md) | 树、递归、DFS                    | 简单 |
 | [面试题 04.02. 最小高度树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.02.%20最小高度树.md) | 树、二叉搜索树、递归             | 简单 |
 | [面试题 04.03. 特定深度节点链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.03.%20特定深度节点链表.md) | 树、二叉树遍历、链表             | 中等 |
+| [114. 二叉树展开为链表]()                                    | 树、二叉树遍历、链表             | 中等 |
 | [面试题 04.05. 合法二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.05.%20合法二叉搜索树.md) | 树、二叉搜索树、二叉树遍历、递归 | 中等 |
+| [96. 不同的二叉搜索树]()                                     | 树、动态规划、数学               | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                               | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                               | 简单 |
@@ -110,6 +116,7 @@
 | [62. 不同路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/62.%20不同路径.md) | 动态规划、滚动数组优化           | 中等 |
 | [63. 不同路径 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/63.%20不同路径%20II.md) | 动态规划、滚动数组优化           | 中等 |
 | [面试题 08.02. 迷路的机器人](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2008.02.%20迷路的机器人.md) | 回溯法、DFS                      | 中等 |
+| [42. 接雨水]()                                               | 动态规划                         | 困难 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |

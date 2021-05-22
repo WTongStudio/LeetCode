@@ -47,3 +47,7 @@ func dfs(root *TreeNode, target int, item []int, ret *[][]int) {
 	item = item[:len(item)-1]
 }
 ```
+
+## 相关题目
+
+[面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md)
