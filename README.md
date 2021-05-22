@@ -32,6 +32,7 @@
 | [435. 无重叠区间](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/435.%20无重叠区间.md) | 数组、排序、区间问题、贪心算法   | 中等 |
 | [75. 颜色分类](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/75.%20颜色分类.md) | 数组、双指针                     | 中等 |
 | [128. 最长连续序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/128.%20最长连续序列.md) | 数组、哈希表                     | 困难 |
+| [283. 移动零]()                                              | 数组、双指针                     | 简单 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表                   | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
@@ -92,6 +93,8 @@
 | -                                                            | -                                |  -   |
 | [32. 最长有效括号](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/32.%20最长有效括号.md) | 贪心算法                         | 中等 |
 | [55. 跳跃游戏](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/55.%20跳跃游戏.md) | 贪心算法                         | 中等 |
+| [406. 根据身高重建队列]()                                    | 贪心算法                         | 中等 |
+| [253. 会议室 II]()                                           | 贪心算法                         | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 12. 矩阵中的路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2012.%20矩阵中的路径.md) | 回溯法、DFS                      | 中等 |
 | [剑指 Offer 13. 机器人的运动范围](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2013.%20机器人的运动范围.md) | 回溯法、DFS、BFS                 | 中等 |
@@ -118,7 +121,7 @@
 | [63. 不同路径 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/63.%20不同路径%20II.md) | 动态规划、滚动数组优化           | 中等 |
 | [面试题 08.02. 迷路的机器人](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2008.02.%20迷路的机器人.md) | 回溯法、DFS                      | 中等 |
 | [42. 接雨水](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/42.%20接雨水.md) | 动态规划                         | 困难 |
-| [139. 单词拆分]()                                            | 动态规划                         | 中等 |
+| [139. 单词拆分](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/139.%20单词拆分.md) | 动态规划                         | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |
