@@ -31,6 +31,7 @@
 | [56. 合并区间](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/56.%20合并区间.md) | 数组、排序、区间问题             | 中等 |
 | [435. 无重叠区间](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/435.%20无重叠区间.md) | 数组、排序、区间问题、贪心算法   | 中等 |
 | [75. 颜色分类](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/75.%20颜色分类.md) | 数组、双指针                     | 中等 |
+| [128. 最长连续序列]()                                        | 数组、哈希表                     | 困难 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表                   | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
