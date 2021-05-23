@@ -22,7 +22,7 @@ func heapify(tree []int, n, i int) {
 	c1 := 2*i + 1 // 左子节点
 	c2 := 2*i + 2 // 右子节点
 	max := i
-	if c1 < n && tree[c1] > tree[max] {
+	if c1 < n && tree[c1] > tree[max] { // 注意此处必须是 tree[max] 而非 tree[i]，因为 max 更新后下面会继续判断
 		max = c1
 	}
 	if c2 < n && tree[c2] > tree[max] {
