@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、优先队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、排列<br />归并思想、区间问题、双指针、LRU |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、排列<br />归并思想、区间问题、双指针、LRU、单调栈 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -51,7 +51,7 @@
 | [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法                | 简单 |
 | [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法                | 中等 |
 | [23. 合并K个升序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/23.%20合并K个升序链表.md) | 链表、归并思想、优先队列         | 困难 |
-| [146. LRU 缓存机制]()                                        | 链表、LRU、哈希表                | 中等 |
+| [146. LRU 缓存机制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/146.%20LRU%20缓存机制.md) | 链表、LRU、哈希表                | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                               | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                               | 中等 |
@@ -64,7 +64,7 @@
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2034.%20二叉树中和为某一值的路径.md) | 树、回溯法、DFS                  | 中等 |
 | [面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md) | 树、二叉树遍历、DFS              | 中等 |
 | [124. 二叉树中的最大路径和](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/124.%20二叉树中的最大路径和.md) | 树、递归                         | 困难 |
-| [543. 二叉树的直径]()                                        | 树、递归                         | 简单 |
+| [543. 二叉树的直径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/543.%20二叉树的直径.md) | 树、递归                         | 简单 |
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树                               | 中等 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2054.%20二叉搜索树的第k大节点.md) | 树、二叉树遍历                   | 简单 |
 | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20I.%20二叉树的深度.md) | 树、二叉树遍历、DFS、BFS         | 简单 |
@@ -77,16 +77,16 @@
 | [面试题 04.05. 合法二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.05.%20合法二叉搜索树.md) | 树、二叉搜索树、二叉树遍历、递归 | 中等 |
 | [96. 不同的二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/96.%20不同的二叉搜索树.md) | 树、动态规划、数学               | 中等 |
 | [297. 二叉树的序列化与反序列化](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/297.%20二叉树的序列化与反序列化.md) | 树、二叉树遍历                   | 困难 |
-| [617. 合并二叉树]()                                          | 树、递归、DFS                    | 简单 |
+| [617. 合并二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/617.%20合并二叉树.md) | 树、递归、DFS                    | 简单 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                               | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                               | 简单 |
 | [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2031.%20栈的压入、弹出序列.md) | 栈                               | 中等 |
-| [739. 每日温度]()                                            | 栈、单调栈                       | 中等 |
+| [739. 每日温度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/739.%20每日温度.md) | 栈、单调栈                       | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 40. 最小的k个数](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/剑指%20Offer%2040.%20最小的k个数.md) | 堆、Top K                        | 简单 |
 | [215. 数组中的第K个最大元素](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/215.%20数组中的第K个最大元素.md) | 堆、Top K                        | 中等 |
-| [347. 前 K 个高频元素]()                                     | 堆、Top K                        | 中等 |
+| [347. 前 K 个高频元素](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/347.%20前%20K%20个高频元素.md) | 堆、Top K                        | 中等 |
 | [剑指 Offer 41. 数据流中的中位数](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/堆/剑指%20Offer%2041.%20数据流中的中位数.md) | 堆                               | 困难 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 59 - II. 队列的最大值](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/队列/剑指%20Offer%2059%20-%20II.%20队列的最大值.md) | 队列                             | 中等 |
@@ -109,7 +109,7 @@
 | [22. 括号生成](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/22.%20括号生成.md) | 回溯法、DFS、字符串              | 中等 |
 | [39. 组合总和](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/39.%20组合总和.md) | 回溯法、DFS、剪枝                | 中等 |
 | -                                                            | -                                |  -   |
-| [200. 岛屿数量]()                                            | 搜索、DFS、BFS                   | 中等 |
+| [200. 岛屿数量](https://github.com/WTongStudio/LeetCode/blob/master/算法/搜索/200.%20岛屿数量.md) | 搜索、DFS、BFS                   | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划                         | 中等 |
 | [剑指 Offer 19. 正则表达式匹配](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2019.%20正则表达式匹配.md) | 动态规划                         | 困难 |
@@ -132,7 +132,7 @@
 | [42. 接雨水](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/42.%20接雨水.md) | 动态规划                         | 困难 |
 | [139. 单词拆分](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/139.%20单词拆分.md) | 动态规划                         | 中等 |
 | [300. 最长递增子序列](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/300.%20最长递增子序列.md) | 动态规划                         | 中等 |
-| [322. 零钱兑换]()                                            | 动态规划                         | 中等 |
+| [322. 零钱兑换](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/322.%20零钱兑换.md) | 动态规划                         | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |
