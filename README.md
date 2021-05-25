@@ -51,6 +51,7 @@
 | [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法                | 简单 |
 | [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法                | 中等 |
 | [23. 合并K个升序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/23.%20合并K个升序链表.md) | 链表、归并思想、优先队列         | 困难 |
+| [25. K 个一组翻转链表]()                                     | 链表、反转链表                   | 困难 |
 | [146. LRU 缓存机制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/146.%20LRU%20缓存机制.md) | 链表、LRU、哈希表                | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                               | 中等 |
@@ -100,6 +101,7 @@
 | -                                                            | -                                |  -   |
 | [32. 最长有效括号](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/32.%20最长有效括号.md) | 贪心算法                         | 中等 |
 | [55. 跳跃游戏](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/55.%20跳跃游戏.md) | 贪心算法                         | 中等 |
+| [45. 跳跃游戏 II]()                                          | 贪心算法                         | 中等 |
 | [406. 根据身高重建队列](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/406.%20根据身高重建队列.md) | 贪心算法                         | 中等 |
 | [253. 会议室 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/253.%20会议室%20II.md) | 贪心算法                         | 中等 |
 | -                                                            | -                                |  -   |
