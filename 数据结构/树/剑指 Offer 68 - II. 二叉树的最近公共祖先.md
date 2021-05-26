@@ -54,7 +54,7 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 
 ```golang
 func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
-	parent := map[int]*TreeNode{}
+	parent := map[*TreeNode]*TreeNode{}
 	visited := map[int]bool{}
 
 	var dfs func(*TreeNode) // 此处单独声明，而非短声明（:=）是为了能够闭包传如方法内进行递归
@@ -63,24 +63,24 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 			return
 		}
 		if r.Left != nil {
-			parent[r.Left.Val] = r
+			parent[r.Left] = r
 			dfs(r.Left)
 		}
 		if r.Right != nil {
-			parent[r.Right.Val] = r
+			parent[r.Right] = r
 			dfs(r.Right)
 		}
 	}
 	dfs(root)
 	for p != nil {
 		visited[p.Val] = true // 标记访问过的节点
-		p = parent[p.Val]
+		p = parent[p]
 	}
 	for q != nil {
 		if visited[q.Val] { // 若已被访问则为最近公共祖先
 			return q
 		}
-		q = parent[q.Val]
+		q = parent[q]
 	}
 	return nil
 }
