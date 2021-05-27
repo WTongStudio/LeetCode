@@ -98,7 +98,7 @@
 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.md) | 二分法                           | 简单 |
 | [4. 寻找两个正序数组的中位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/4.%20寻找两个正序数组的中位数.md) | 二分法、堆、Top K                | 困难 |
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
-| [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
+| [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/154.%20寻找旋转排序数组中的最小值%20II.md) | 二分法                           | 中等 |
 | -                                                            | -                                |  -   |
 | [32. 最长有效括号](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/32.%20最长有效括号.md) | 贪心算法                         | 中等 |
 | [55. 跳跃游戏](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/55.%20跳跃游戏.md) | 贪心算法                         | 中等 |
