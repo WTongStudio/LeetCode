@@ -25,26 +25,24 @@
 ```golang
 func permutation(s string) []string {
 	var res []string
-	// 注意，此处 res 需要传地址
-	// 因为函数内部 append 可能会导致副本指向的底层数组变更
-	// 若传地址的话，即使底层数组变更，原始的 res 也会跟着变更，不影响最终结果
-	dfs([]byte(s), len(s), 0, &res)
-	return res
-}
-
-func dfs(c []byte, n, x int, res *[]string) {
-	if x == n-1 {
-		*res = append(*res, string(c)) // 添加排列方案到结果集
-	}
-	set := make(map[byte]bool) // set 只需针对本层遍历排重即可
-	for i := x; i < n; i++ {
-		if set[c[i]] { // 重复字符，剪枝
-			continue
+	n := len(s)
+	var dfs func(c []byte, i int)
+	dfs = func(c []byte, i int) {
+		if i == n-1 { // 终止条件
+			res = append(res, string(c)) // 添加排列方案到结果集
 		}
-		set[c[i]] = true
-		c[x], c[i] = c[i], c[x] // 交换，将 c[i] 固定在第 x 位
-		dfs(c, n, x+1, res)     // 开启固定第 x+1 位字符
-		c[x], c[i] = c[i], c[x] // 恢复交换
+		set := make(map[byte]bool) // 需要排重，重复元素交换无意义，只需针对本层遍历排重即可
+		for j := i; j < n; j++ {
+			if set[c[j]] { // 重复字符，剪枝
+				continue
+			}
+			set[c[j]] = true
+			c[j], c[i] = c[i], c[j] // 交换，将 c[j] 固定在第 i 位
+			dfs(c, i+1)             // 开始固定第 i+1 位字符
+			c[j], c[i] = c[i], c[j] // 恢复交换
+		}
 	}
+	dfs([]byte(s), 0)
+	return res
 }
 ```

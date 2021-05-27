@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、优先队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、<br />有限状态自动机、排序、归并排序、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、排列<br />归并思想、区间问题、双指针、LRU、单调栈 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -61,7 +61,8 @@
 | [剑指 Offer 26. 树的子结构](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2026.%20树的子结构.md) | 树                               | 中等 |
 | [剑指 Offer 27. 二叉树的镜像](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2027.%20二叉树的镜像.md) | 树                               | 简单 |
 | [剑指 Offer 28. 对称的二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2028.%20对称的二叉树.md) | 树                               | 简单 |
-| [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2032%20-%20III.%20从上到下打印二叉树%20III.md) | 树                               | 中等 |
+| [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2032%20-%20III.%20从上到下打印二叉树%20III.md) | 树、二叉树遍历                   | 中等 |
+| [199. 二叉树的右视图](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/199.%20二叉树的右视图.md) | 树、二叉树遍历                   | 中等 |
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.md) | 树                               | 中等 |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2034.%20二叉树中和为某一值的路径.md) | 树、回溯法、DFS                  | 中等 |
 | [面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md) | 树、二叉树遍历、DFS              | 中等 |
