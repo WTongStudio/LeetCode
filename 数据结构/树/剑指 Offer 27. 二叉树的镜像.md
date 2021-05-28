@@ -20,7 +20,8 @@ func mirrorTree(root *TreeNode) *TreeNode { // 基于层次遍历思想
 	queue := list.New()
 	queue.PushBack(root)
 	for queue.Len() > 0 {
-		for i := 0; i < queue.Len(); i++ { // 遍历每一层
+		size := queue.Len()
+		for i := 0; i < size; i++ { // 遍历每一层
 			node := queue.Remove(queue.Front()).(*TreeNode)
 			node.Left, node.Right = node.Right, node.Left // 交换每一个节点的左右子节点
 			if node.Left != nil {

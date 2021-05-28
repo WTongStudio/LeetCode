@@ -98,6 +98,8 @@
 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/剑指%20Offer%2053%20-%20I.%20在排序数组中查找数字%20I.md) | 二分法                           | 简单 |
 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/剑指%20Offer%2053%20-%20II.%200～n-1中缺失的数字.md) | 二分法                           | 简单 |
 | [4. 寻找两个正序数组的中位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/4.%20寻找两个正序数组的中位数.md) | 二分法、堆、Top K                | 困难 |
+| [33. 搜索旋转排序数组](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/33.%20搜索旋转排序数组.md) | 二分法                           | 中等 |
+| [81. 搜索旋转排序数组 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/81.%20搜索旋转排序数组%20II.md) | 二分法                           | 中等 |
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/154.%20寻找旋转排序数组中的最小值%20II.md) | 二分法                           | 中等 |
 | -                                                            | -                                |  -   |
@@ -155,6 +157,7 @@
 | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2043.%201～n%20整数中%201%20出现的次数.md) | 数学                             | 困难 |
 | [剑指 Offer 44. 数字序列中某一位的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2044.%20数字序列中某一位的数字.md) | 数学                             | 中等 |
 | [剑指 Offer 67. 把字符串转换成整数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2067.%20把字符串转换成整数.md) | 数学                             | 中等 |
+| [470. 用 Rand7() 实现 Rand10()]()                            | 数学                             | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/大数/剑指%20Offer%2017.%20打印从1到最大的n位数.md) | 大数                             | 简单 |
 | -                                                            | -                                |  -   |
