@@ -21,30 +21,31 @@
 
 ```golang
 func pathSum(root *TreeNode, target int) [][]int {
-	var ret [][]int
-	dfs(root, target, nil, &ret)
-	return ret
-}
-
-func dfs(root *TreeNode, target int, item []int, ret *[][]int) {
-	if root == nil {
-		return
+	var res [][]int
+	var path []int
+	var dfs func(root *TreeNode)
+	dfs = func(root *TreeNode) {
+		if root == nil {
+			return
+		}
+		target = target - root.Val
+		path = append(path, root.Val)
+		if target == 0 && root.Left == nil && root.Right == nil { // 叶子节点
+			// path 切片的底层数组可能会被修改
+			// 所以需要先 append 到空切片，在 append 到 ret 中
+			// 防止 path 底层数据修改后，导致加入到 ret 的切片也发生变化
+			res = append(res, append([]int{}, path...))
+			target = target + root.Val
+			path = path[:len(path)-1]
+			return
+		}
+		dfs(root.Left)
+		dfs(root.Right)
+		target = target + root.Val
+		path = path[:len(path)-1]
 	}
-	target = target - root.Val
-	// 此处的 item 切片 append 可能会扩容
-	// 导致上一层的 item 与函数内的 item 数据不一致
-	// 但并不影响逻辑，所以可以不用特殊处理
-	item = append(item, root.Val)
-	if target == 0 && root.Left == nil && root.Right == nil {
-		// path 切片的底层数组可能会被修改
-		// 所以需要先 append 到空切片，在 append 到 ret 中
-		// 防止 path 底层数据修改后，导致加入到 ret 的切片也发生变化
-		*ret = append(*ret, append([]int{}, item...))
-		return
-	}
-	dfs(root.Left, target, item, ret)
-	dfs(root.Right, target, item, ret)
-	item = item[:len(item)-1]
+	dfs(root)
+	return res
 }
 ```
 
