@@ -54,7 +54,8 @@
 | [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法                | 简单 |
 | [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法                | 中等 |
 | [146. LRU 缓存机制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/146.%20LRU%20缓存机制.md) | 链表、LRU、哈希表                | 中等 |
-| [147. 对链表进行插入排序]()                                  | 链表、排序                       | 中等 |
+| [147. 对链表进行插入排序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/147.%20对链表进行插入排序.md) | 链表、排序                       | 中等 |
+| [148. 排序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/148.%20排序链表.md) | 链表、排序                       | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 07. 重建二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2007.%20重建二叉树.md) | 树                               | 中等 |
 | [剑指 Offer 08. 二叉树的下一个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2008.%20二叉树的下一个节点.md) | 树                               | 中等 |
@@ -136,6 +137,7 @@
 | [62. 不同路径](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/62.%20不同路径.md) | 动态规划、滚动数组优化           | 中等 |
 | [63. 不同路径 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/63.%20不同路径%20II.md) | 动态规划、滚动数组优化           | 中等 |
 | [面试题 08.02. 迷路的机器人](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/面试题%2008.02.%20迷路的机器人.md) | 回溯法、DFS                      | 中等 |
+| [64. 最小路径和]()                                           | 动态规划                         | 中等 |
 | [42. 接雨水](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/42.%20接雨水.md) | 动态规划                         | 困难 |
 | [139. 单词拆分](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/139.%20单词拆分.md) | 动态规划                         | 中等 |
 | [300. 最长递增子序列](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/300.%20最长递增子序列.md) | 动态规划                         | 中等 |
@@ -159,6 +161,7 @@
 | [剑指 Offer 44. 数字序列中某一位的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2044.%20数字序列中某一位的数字.md) | 数学                             | 中等 |
 | [剑指 Offer 67. 把字符串转换成整数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2067.%20把字符串转换成整数.md) | 数学                             | 中等 |
 | [470. 用 Rand7() 实现 Rand10()](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/470.%20用%20Rand7()%20实现%20Rand10().md) | 数学                             | 中等 |
+| [633. 平方数之和]()                                          | 数学、双指针                     | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/大数/剑指%20Offer%2017.%20打印从1到最大的n位数.md) | 大数                             | 简单 |
 | -                                                            | -                                |  -   |
