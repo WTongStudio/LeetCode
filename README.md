@@ -51,8 +51,8 @@
 | [面试题 02.06. 回文链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/面试题%2002.06.%20回文链表.md) | 链表、反转链表、快慢指针         | 简单 |
 | [23. 合并K个升序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/23.%20合并K个升序链表.md) | 链表、归并思想、优先队列         | 困难 |
 | [25. K 个一组翻转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/25.%20K%20个一组翻转链表.md) | 链表、反转链表                   | 困难 |
-| [83. 删除排序链表中的重复元素]()                             | 链表                             | 简单 |
-| [82. 删除排序链表中的重复元素 II]()                          | 链表                             | 中等 |
+| [83. 删除排序链表中的重复元素](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/83.%20删除排序链表中的重复元素.md) | 链表                             | 简单 |
+| [82. 删除排序链表中的重复元素 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/82.%20删除排序链表中的重复元素%20II.md) | 链表                             | 中等 |
 | [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法                | 简单 |
 | [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法                | 中等 |
 | [146. LRU 缓存机制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/146.%20LRU%20缓存机制.md) | 链表、LRU、哈希表                | 中等 |
