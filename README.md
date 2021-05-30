@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、优先队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈、滑动窗口 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -40,6 +40,7 @@
 | [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                           | 简单 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
+| [76. 最小覆盖子串]()                                         | 字符串、滑动窗口                 | 困难 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                             | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表、反转链表                   | 简单 |
@@ -69,6 +70,7 @@
 | [199. 二叉树的右视图](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/199.%20二叉树的右视图.md) | 树、二叉树遍历                   | 中等 |
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2033.%20二叉搜索树的后序遍历序列.md) | 树                               | 中等 |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2034.%20二叉树中和为某一值的路径.md) | 树、回溯法、DFS                  | 中等 |
+| [129. 求根节点到叶节点数字之和]()                            | 树、回溯法、DFS                  | 中等 |
 | [面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md) | 树、二叉树遍历、DFS              | 中等 |
 | [124. 二叉树中的最大路径和](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/124.%20二叉树中的最大路径和.md) | 树、递归                         | 困难 |
 | [543. 二叉树的直径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/543.%20二叉树的直径.md) | 树、递归                         | 简单 |
