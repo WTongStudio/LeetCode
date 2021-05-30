@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、优先队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈、滑动窗口 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -124,6 +124,7 @@
 | [剑指 Offer 14- I. 剪绳子](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2014-%20I.%20剪绳子.md) | 动态规划                         | 中等 |
 | [剑指 Offer 19. 正则表达式匹配](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2019.%20正则表达式匹配.md) | 动态规划                         | 困难 |
 | [剑指 Offer 42. 连续子数组的最大和](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2042.%20连续子数组的最大和.md) | 动态规划                         | 简单 |
+| [152. 乘积最大子数组]()                                      | 动态规划                         | 中等 |
 | [剑指 Offer 46. 把数字翻译成字符串](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/剑指%20Offer%2046.%20把数字翻译成字符串.md) | 动态规划、滚动数组优化           | 中等 |
 | [198. 打家劫舍](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/198.%20打家劫舍.md) | 动态规划、滚动数组优化           | 中等 |
 | [213. 打家劫舍 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/213.%20打家劫舍%20II.md) | 动态规划、滚动数组优化           | 中等 |
@@ -144,6 +145,7 @@
 | [139. 单词拆分](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/139.%20单词拆分.md) | 动态规划                         | 中等 |
 | [300. 最长递增子序列](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/300.%20最长递增子序列.md) | 动态规划                         | 中等 |
 | [322. 零钱兑换](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/322.%20零钱兑换.md) | 动态规划                         | 中等 |
+| [718. 最长重复子数组]()                                      | 动态规划、滑动窗口               | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2056%20-%20I.%20数组中数字出现的次数.md) | 位运算                           | 中等 |
