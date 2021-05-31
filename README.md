@@ -120,6 +120,7 @@
 | [剑指 Offer 38. 字符串的排列](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/剑指%20Offer%2038.%20字符串的排列.md) | 回溯法、DFS、字符串              | 中等 |
 | [22. 括号生成](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/22.%20括号生成.md) | 回溯法、DFS、字符串              | 中等 |
 | [39. 组合总和](https://github.com/WTongStudio/LeetCode/blob/master/算法/回溯法/39.%20组合总和.md) | 回溯法、DFS、剪枝                | 中等 |
+| [93. 复原 IP 地址]()                                         | 回溯法、DFS、剪枝                | 中等 |
 | -                                                            | -                                |  -   |
 | [200. 岛屿数量](https://github.com/WTongStudio/LeetCode/blob/master/算法/搜索/200.%20岛屿数量.md) | 搜索、DFS、BFS                   | 中等 |
 | -                                                            | -                                |  -   |
