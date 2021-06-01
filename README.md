@@ -29,6 +29,7 @@
 | [面试题 01.08. 零矩阵](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/面试题%2001.08.%20零矩阵.md) | 数组、矩阵                       | 中等 |
 | [11. 盛最多水的容器](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/11.%20盛最多水的容器.md) | 数组、双指针                     | 中等 |
 | [31. 下一个排列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/31.%20下一个排列.md) | 数组、排列                       | 中等 |
+| [41. 缺失的第一个正数]()                                     | 数组、哈希表                     | 中等 |
 | [56. 合并区间](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/56.%20合并区间.md) | 数组、排序、区间问题             | 中等 |
 | [435. 无重叠区间](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/435.%20无重叠区间.md) | 数组、排序、区间问题、贪心算法   | 中等 |
 | [75. 颜色分类](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/75.%20颜色分类.md) | 数组、双指针                     | 中等 |
@@ -41,6 +42,7 @@
 | [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                           | 简单 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
 | [76. 最小覆盖子串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/76.%20最小覆盖子串.md) | 字符串、滑动窗口                 | 困难 |
+| [165. 比较版本号]()                                          | 字符串、双指针                   | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                             | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表、反转链表                   | 简单 |
