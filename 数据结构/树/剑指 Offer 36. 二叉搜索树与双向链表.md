@@ -20,7 +20,7 @@
 
 **空间复杂度：O(N)** 
 
-## 代码实现
+## 代码实现（递归）
 
 ```golang
 var prev, head *TreeNode // 全局变量
@@ -47,3 +47,35 @@ func midOrder(curr *TreeNode) {
 	midOrder(curr.Right) // 递归遍历右子树
 }
 ```
+
+## 代码实现（非递归，推荐）
+
+```go
+func treeToDoublyList(root *TreeNode) *TreeNode {
+	if root == nil { // 特判
+		return nil
+	}
+	var prev, head *TreeNode // prev记录上一个节点，head记录双向链表的头节点，注意head不一定等于root
+	stack := make([]*TreeNode, 0)
+	node := root
+	for node != nil || len(stack) > 0 { // 非递归中序遍历
+		for node != nil {
+			stack = append(stack, node)
+			node = node.Left
+		}
+		node = stack[len(stack)-1]
+		stack = stack[:len(stack)-1]
+		// 树节点转链表节点
+		if prev == nil { // prev==nil表示第一次访问到的节点，即中序遍历访问的第一个节点，也即双向链表的头节点
+			head = node
+		} else { // 修改节点指针指向
+			prev.Right, node.Left = node, prev
+		}
+		prev = node // 更新前驱指针，重要
+		node = node.Right
+	}
+	head.Left, prev.Right = prev, head // 首位循环处理
+	return head
+}
+```
+
