@@ -40,7 +40,7 @@
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                           | 简单 |
-| [14. 最长公共前缀]()                                         | 字符串                           | 简单 |
+| [14. 最长公共前缀](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/14.%20最长公共前缀.md) | 字符串                           | 简单 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
 | [76. 最小覆盖子串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/76.%20最小覆盖子串.md) | 字符串、滑动窗口                 | 困难 |
 | [165. 比较版本号](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/165.%20比较版本号.md) | 字符串、双指针                   | 中等 |
