@@ -26,7 +26,7 @@ func isSymmetricRecursion(p1 *TreeNode, p2 *TreeNode) bool {
 	if p1 == nil || p2 == nil {
 		return false
 	}
-	if p1.Val != p2.Val {
+	if p1.Val != p2.Val { // 两个镜像二叉树的根节点必然相等 
 		return false
 	}
 	return isSymmetricRecursion(p1.Left, p2.Right) && isSymmetricRecursion(p1.Right, p2.Left)
@@ -37,7 +37,7 @@ func isSymmetricRecursion(p1 *TreeNode, p2 *TreeNode) bool {
 
 ## 解题思路
 
-首先我们引入一个队列，这是把递归程序改写成迭代程序的常用方法。初始化时我们把根节点入队两次。每次提取两个结点并比较它们的值（队列中每两个连续的结点应该是相等的，而且它们的子树互为镜像），**然后将两个结点的左右子结点按相反的顺序插入队列中**。当队列为空时，或者我们检测到树不对称（即从队列中取出两个不相等的连续结点）时，该算法结束。
+首先我们引入一个队列，这是把递归程序改写成迭代程序的常用方法。初始化时我们把根节点入队两次。每次提取两个节点并比较它们的值（队列中每两个连续的结点应该是相等的，而且它们的子树互为镜像），**然后将两个结点的左右子结点按相反的顺序插入队列中**。当队列为空时，或者我们检测到树不对称（即从队列中取出两个不相等的连续结点）时，该算法结束。
 
 ## 复杂度分析
 

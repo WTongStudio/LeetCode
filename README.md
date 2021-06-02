@@ -151,7 +151,7 @@
 | [42. 接雨水](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/42.%20接雨水.md) | 动态规划                         | 困难 |
 | [139. 单词拆分](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/139.%20单词拆分.md) | 动态规划                         | 中等 |
 | [300. 最长递增子序列](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/300.%20最长递增子序列.md) | 动态规划                         | 中等 |
-| [322. 零钱兑换](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/322.%20零钱兑换.md) | 动态规划                         | 中等 |
+| [322. 零钱兑换](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/322.%20零钱兑换.md) | 动态规划、回溯法、DFS            | 中等 |
 | [718. 最长重复子数组](https://github.com/WTongStudio/LeetCode/blob/master/算法/动态规划/718.%20最长重复子数组.md) | 动态规划、滑动窗口               | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 15. 二进制中1的个数](https://github.com/WTongStudio/LeetCode/blob/master/算法/位运算/剑指%20Offer%2015.%20二进制中1的个数.md) | 位运算                           | 简单 |
