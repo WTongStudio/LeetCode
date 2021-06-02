@@ -31,7 +31,7 @@
 ```golang
 func majorityElement(nums []int) int {
 	var x int
-  votes := 0
+	votes := 0
 	for i := 0; i < len(nums); i++ {
 		if votes == 0 { // 每当票数为 0 时表示众数被抵消了，初始化新众数
 			x = nums[i]
