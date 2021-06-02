@@ -91,7 +91,7 @@
 | [96. 不同的二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/96.%20不同的二叉搜索树.md) | 树、动态规划、数学               | 中等 |
 | [297. 二叉树的序列化与反序列化](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/297.%20二叉树的序列化与反序列化.md) | 树、二叉树遍历                   | 困难 |
 | [617. 合并二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/617.%20合并二叉树.md) | 树、递归、DFS                    | 简单 |
-| [958. 二叉树的完全性检验]()                                  | 树、二叉树遍历、完全二叉树       | 中等 |
+| [958. 二叉树的完全性检验](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/958.%20二叉树的完全性检验.md) | 树、二叉树遍历、完全二叉树       | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 09. 用两个栈实现队列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2009.%20用两个栈实现队列.md) | 栈                               | 简单 |
 | [剑指 Offer 30. 包含min函数的栈](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/栈/剑指%20Offer%2030.%20包含min函数的栈.md) | 栈                               | 简单 |
