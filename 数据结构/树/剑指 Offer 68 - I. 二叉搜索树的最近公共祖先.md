@@ -59,7 +59,7 @@ func getPath(root, target *TreeNode) []*TreeNode {
 ```golang
 func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 	ancestor := root
-	for {
+	for ancestor != nil {
 		if p.Val < ancestor.Val && q.Val < ancestor.Val {
 			ancestor = ancestor.Left
 		} else if p.Val > ancestor.Val && q.Val > ancestor.Val {
@@ -68,6 +68,7 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 			return ancestor
 		}
 	}
+	return ancestor
 }
 ```
 
