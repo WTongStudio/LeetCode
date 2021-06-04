@@ -5,7 +5,7 @@
 | 分类     | 标签                                                         |
 | :------- | :----------------------------------------------------------- |
 | 数据结构 | 数组、链表、树、二叉搜索树、栈、堆、字符串、哈希表、队列、优先队列、矩阵 |
-| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈、完全二叉树 |
+| 算法     | 二分法、回溯法、剪枝DFS、BFS、动态规划、位运算、数学、大数、排列<br />有限状态自动机、排序、归并排序、归并思想、滚动数组优化、双指针、分治法<br />二叉树遍历、问题抽象、递归、俄罗斯农民乘法、滑动窗口、约瑟夫环、双指针<br />汉明距离、反转链表、快慢指针、Floyd判圈法、Top K、贪心算法、区间问题<br />LRU、单调栈、完全二叉树、前缀和 |
 
 | 题目                                                         | 标签                             | 难度 |
 | :----------------------------------------------------------- | :------------------------------- | :--: |
@@ -33,14 +33,17 @@
 | [56. 合并区间](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/56.%20合并区间.md) | 数组、排序、区间问题             | 中等 |
 | [435. 无重叠区间](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/435.%20无重叠区间.md) | 数组、排序、区间问题、贪心算法   | 中等 |
 | [75. 颜色分类](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/75.%20颜色分类.md) | 数组、双指针                     | 中等 |
+| [118. 杨辉三角]()                                            | 数组                             | 简单 |
 | [128. 最长连续序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/128.%20最长连续序列.md) | 数组、哈希表                     | 困难 |
 | [283. 移动零](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/283.%20移动零.md) | 数组、双指针                     | 简单 |
+| [525. 连续数组]()                                            | 数组、前缀和                     | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2050.%20第一个只出现一次的字符.md) | 字符串、哈希表                   | 简单 |
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                           | 简单 |
 | [14. 最长公共前缀](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/14.%20最长公共前缀.md) | 字符串                           | 简单 |
+| [43. 字符串相乘]()                                           | 字符串                           | 中等 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
 | [76. 最小覆盖子串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/76.%20最小覆盖子串.md) | 字符串、滑动窗口                 | 困难 |
 | [165. 比较版本号](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/165.%20比较版本号.md) | 字符串、双指针                   | 中等 |
