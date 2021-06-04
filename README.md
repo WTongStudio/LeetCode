@@ -42,6 +42,7 @@
 | [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/剑指%20Offer%2058%20-%20I.%20翻转单词顺序.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.06. 字符串压缩](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.06.%20字符串压缩.md) | 字符串、双指针                   | 简单 |
 | [面试题 01.09. 字符串轮转](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/面试题%2001.09.%20字符串轮转.md) | 字符串                           | 简单 |
+| [8. 字符串转换整数 (atoi)](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/8.%20字符串转换整数%20(atoi).md) | 字符串                           | 中等 |
 | [14. 最长公共前缀](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/14.%20最长公共前缀.md) | 字符串                           | 简单 |
 | [43. 字符串相乘](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/43.%20字符串相乘.md) | 字符串                           | 中等 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
