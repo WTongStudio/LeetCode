@@ -183,7 +183,7 @@
 | [9. 回文数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/9.%20回文数.md) | 数学                             | 简单 |
 | [470. 用 Rand7() 实现 Rand10()](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/470.%20用%20Rand7()%20实现%20Rand10().md) | 数学                             | 中等 |
 | [633. 平方数之和](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/633.%20平方数之和.md) | 数学、双指针                     | 中等 |
-| [781. 森林中的兔子]()                                        | 数学                             | 中等 |
+| [781. 森林中的兔子](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/781.%20森林中的兔子.md) | 数学                             | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/大数/剑指%20Offer%2017.%20打印从1到最大的n位数.md) | 大数                             | 简单 |
 | -                                                            | -                                |  -   |
