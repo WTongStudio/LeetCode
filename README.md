@@ -179,7 +179,7 @@
 | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2043.%201～n%20整数中%201%20出现的次数.md) | 数学                             | 困难 |
 | [剑指 Offer 44. 数字序列中某一位的数字](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2044.%20数字序列中某一位的数字.md) | 数学                             | 中等 |
 | [剑指 Offer 67. 把字符串转换成整数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/剑指%20Offer%2067.%20把字符串转换成整数.md) | 数学                             | 中等 |
-| [9. 回文数]()                                                | 数学                             | 简单 |
+| [9. 回文数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/9.%20回文数.md) | 数学                             | 简单 |
 | [470. 用 Rand7() 实现 Rand10()](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/470.%20用%20Rand7()%20实现%20Rand10().md) | 数学                             | 中等 |
 | [633. 平方数之和](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/633.%20平方数之和.md) | 数学、双指针                     | 中等 |
 | -                                                            | -                                |  -   |
