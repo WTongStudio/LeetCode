@@ -48,7 +48,7 @@
 | [43. 字符串相乘](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/43.%20字符串相乘.md) | 字符串                           | 中等 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
 | [76. 最小覆盖子串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/76.%20最小覆盖子串.md) | 字符串、滑动窗口                 | 困难 |
-| [131. 分割回文串]()                                          | 字符串、回溯法、动态规划         | 中等 |
+| [131. 分割回文串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/131.%20分割回文串.md) | 字符串、回溯法、动态规划         | 中等 |
 | [165. 比较版本号](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/165.%20比较版本号.md) | 字符串、双指针                   | 中等 |
 | [394. 字符串解码](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/394.%20字符串解码.md) | 字符串                           | 中等 |
 | -                                                            | -                                |  -   |
@@ -183,6 +183,7 @@
 | [9. 回文数](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/9.%20回文数.md) | 数学                             | 简单 |
 | [470. 用 Rand7() 实现 Rand10()](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/470.%20用%20Rand7()%20实现%20Rand10().md) | 数学                             | 中等 |
 | [633. 平方数之和](https://github.com/WTongStudio/LeetCode/blob/master/算法/数学/633.%20平方数之和.md) | 数学、双指针                     | 中等 |
+| [781. 森林中的兔子]()                                        | 数学                             | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://github.com/WTongStudio/LeetCode/blob/master/算法/大数/剑指%20Offer%2017.%20打印从1到最大的n位数.md) | 大数                             | 简单 |
 | -                                                            | -                                |  -   |
