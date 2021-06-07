@@ -51,7 +51,7 @@
 | [131. 分割回文串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/131.%20分割回文串.md) | 字符串、回溯法、动态规划         | 中等 |
 | [165. 比较版本号](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/165.%20比较版本号.md) | 字符串、双指针                   | 中等 |
 | [394. 字符串解码](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/394.%20字符串解码.md) | 字符串                           | 中等 |
-| [424. 替换后的最长重复字符]()                                | 字符串、双指针                   | 中等 |
+| [424. 替换后的最长重复字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/424.%20替换后的最长重复字符.md) | 字符串、双指针                   | 中等 |
 | -                                                            | -                                |  -   |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2022.%20链表中倒数第k个节点.md) | 链表                             | 简单 |
 | [剑指 Offer 24. 反转链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/剑指%20Offer%2024.%20反转链表.md) | 链表、反转链表                   | 简单 |
