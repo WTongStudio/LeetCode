@@ -62,15 +62,19 @@ func cuttingRope(n int) int {
 	dp[3] = 3
 	maxVal := 0
 	for i := 4; i <= n; i++ {
-		maxVal = 0                  // 每轮清零
 		for j := 1; j <= i/2; j++ { // 只需遍历一半即可，另一半是对称的
-			if maxVal < dp[j]*dp[i-j] {
-				maxVal = dp[j] * dp[i-j]
-			}
+			dp[i] = max(dp[i], dp[j]*dp[i-j])
 		}
-		dp[i] = maxVal
+		maxVal = max(maxVal, dp[i])
 	}
 	return dp[n]
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
 }
 ```
 
