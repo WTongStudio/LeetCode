@@ -68,7 +68,7 @@
 | [82. 删除排序链表中的重复元素 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/82.%20删除排序链表中的重复元素%20II.md) | 链表                             | 中等 |
 | [141. 环形链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/141.%20环形链表.md) | 链表、Floyd判圈法                | 简单 |
 | [142. 环形链表 II](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/142.%20环形链表%20II.md) | 链表、Floyd判圈法                | 中等 |
-| [143. 重排链表]()                                            | 链表、反转链表、快慢指针         | 中等 |
+| [143. 重排链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/143.%20重排链表.md) | 链表、反转链表、快慢指针         | 中等 |
 | [146. LRU 缓存机制](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/146.%20LRU%20缓存机制.md) | 链表、LRU、哈希表                | 中等 |
 | [147. 对链表进行插入排序](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/147.%20对链表进行插入排序.md) | 链表、排序                       | 中等 |
 | [148. 排序链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/链表/148.%20排序链表.md) | 链表、排序                       | 中等 |
