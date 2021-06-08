@@ -47,7 +47,8 @@
 | [14. 最长公共前缀](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/14.%20最长公共前缀.md) | 字符串                           | 简单 |
 | [43. 字符串相乘](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/43.%20字符串相乘.md) | 字符串                           | 中等 |
 | [49. 字母异位词分组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/49.%20字母异位词分组.md) | 字符串、哈希表、排序             | 中等 |
-| [76. 最小覆盖子串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/76.%20最小覆盖子串.md) | 字符串、滑动窗口                 | 困难 |
+| [76. 最小覆盖子串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/76.%20最小覆盖子串.md) | 字符串、滑动窗口、双指针         | 困难 |
+| [424. 替换后的最长重复字符](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/424.%20替换后的最长重复字符.md) | 字符串、滑动窗口、双指针         | 中等 |
 | [131. 分割回文串](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/131.%20分割回文串.md) | 字符串、回溯法、动态规划         | 中等 |
 | [165. 比较版本号](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/165.%20比较版本号.md) | 字符串、双指针                   | 中等 |
 | [394. 字符串解码](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/字符串/394.%20字符串解码.md) | 字符串                           | 中等 |
