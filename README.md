@@ -34,7 +34,7 @@
 | [56. 合并区间](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/56.%20合并区间.md) | 数组、排序、区间问题             | 中等 |
 | [435. 无重叠区间](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/435.%20无重叠区间.md) | 数组、排序、区间问题、贪心算法   | 中等 |
 | [75. 颜色分类](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/75.%20颜色分类.md) | 数组、双指针                     | 中等 |
-| [88. 合并两个有序数组]()                                     | 数组、双指针                     | 简单 |
+| [88. 合并两个有序数组](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/88.%20合并两个有序数组.md) | 数组、双指针                     | 简单 |
 | [118. 杨辉三角](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/118.%20杨辉三角.md) | 数组                             | 简单 |
 | [128. 最长连续序列](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/128.%20最长连续序列.md) | 数组、哈希表                     | 困难 |
 | [283. 移动零](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/数组/283.%20移动零.md) | 数组、双指针                     | 简单 |
