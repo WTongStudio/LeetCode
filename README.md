@@ -91,15 +91,15 @@
 | [面试题 04.12. 求和路径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.12.%20求和路径.md) | 树、二叉树遍历、DFS              | 中等 |
 | [124. 二叉树中的最大路径和](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/124.%20二叉树中的最大路径和.md) | 树、递归                         | 困难 |
 | [543. 二叉树的直径](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/543.%20二叉树的直径.md) | 树、递归                         | 简单 |
-| [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树                               | 中等 |
+| [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2036.%20二叉搜索树与双向链表.md) | 树、二叉树遍历、链表             | 中等 |
+| [114. 二叉树展开为链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/114.%20二叉树展开为链表.md) | 树、二叉树遍历、链表             | 中等 |
+| [面试题 04.03. 特定深度节点链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.03.%20特定深度节点链表.md) | 树、二叉树遍历、链表             | 中等 |
 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2054.%20二叉搜索树的第k大节点.md) | 树、二叉树遍历                   | 简单 |
 | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20I.%20二叉树的深度.md) | 树、二叉树遍历、DFS、BFS         | 简单 |
 | [剑指 Offer 55 - II. 平衡二叉树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2055%20-%20II.%20平衡二叉树.md) | 树、二叉树遍历                   | 简单 |
 | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2068%20-%20I.%20二叉搜索树的最近公共祖先.md) | 树、二叉搜索树                   | 简单 |
 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/剑指%20Offer%2068%20-%20II.%20二叉树的最近公共祖先.md) | 树、递归、DFS                    | 简单 |
 | [面试题 04.02. 最小高度树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.02.%20最小高度树.md) | 树、二叉搜索树、递归             | 简单 |
-| [面试题 04.03. 特定深度节点链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.03.%20特定深度节点链表.md) | 树、二叉树遍历、链表             | 中等 |
-| [114. 二叉树展开为链表](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/114.%20二叉树展开为链表.md) | 树、二叉树遍历、链表             | 中等 |
 | [面试题 04.05. 合法二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/面试题%2004.05.%20合法二叉搜索树.md) | 树、二叉搜索树、二叉树遍历、递归 | 中等 |
 | [96. 不同的二叉搜索树](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/96.%20不同的二叉搜索树.md) | 树、动态规划、数学               | 中等 |
 | [297. 二叉树的序列化与反序列化](https://github.com/WTongStudio/LeetCode/blob/master/数据结构/树/297.%20二叉树的序列化与反序列化.md) | 树、二叉树遍历                   | 困难 |
