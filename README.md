@@ -126,6 +126,7 @@
 | [81. 搜索旋转排序数组 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/81.%20搜索旋转排序数组%20II.md) | 二分法                           | 中等 |
 | [153. 寻找旋转排序数组中的最小值](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/153.%20寻找旋转排序数组中的最小值.md) | 二分法                           | 中等 |
 | [154. 寻找旋转排序数组中的最小值 II](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/154.%20寻找旋转排序数组中的最小值%20II.md) | 二分法                           | 中等 |
+| [162. 寻找峰值]()                                            | 二分法                           | 中等 |
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/WTongStudio/LeetCode/blob/master/算法/二分法/34.%20在排序数组中查找元素的第一个和最后一个位置.md) | 二分法                           | 中等 |
 | -                                                            | -                                |  -   |
 | [32. 最长有效括号](https://github.com/WTongStudio/LeetCode/blob/master/算法/贪心算法/32.%20最长有效括号.md) | 贪心算法                         | 中等 |
